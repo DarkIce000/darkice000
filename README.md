@@ -13,5 +13,5 @@
 **Platforms**: <span style="color: gold; transition: 2s;">Linux</span>, Windows, Google Cloud
 
 
-<div style="text-align:center">Made With ❤️ By <span style="color: burlywood">Aarav</span></div>
+<div align="center">Made With ❤️ By <span color="burlywood">Aarav</span></div>
 
