@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarav Kumar</h1>
-<pre>
-  <code>
-    I am Aarav Kumar. I am a final year undergraduate student from India.I found myself always playing with interesting technologies, hardware and software programming until it would satisfy my inner curious kid 😺. I have done Full-stack Web Developement with Django and ReactJS. I have Proficiency with making API with Django Rest Framework. Without saying much see my works.
-  </code>
-</pre>
+  <code>I am Aarav Kumar. I am a final year undergraduate student from India.I found myself always playing with interesting technologies, hardware and software programming until it would satisfy my inner curious kid 😺. I have done Full-stack Web Developement with Django and ReactJS. I have Proficiency with making API with Django Rest Framework. Without saying much see my works.</code>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
