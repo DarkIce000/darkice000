@@ -1,22 +1,277 @@
-<h1 align="left">Hello👋, I'm Aarav</h1>
-<code>I am Aarav Kumar. I am a final year undergraduate student from India.I found myself always playing with interesting technologies, hardware and software programming until it would satisfy my inner curious kid 😺. I have done Full-stack Web Developement with Django and ReactJS. I have Proficiency with making API with Django Rest Framework. Without saying much see my works.</code>
+<div align="center">
 
-<h5 align="left">Connect with me:</h5>
-<p align="left">
-<a href="https://twitter.com/aarav7397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aarav7397" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/kumaraarav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumaraarav" height="20" width="20" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aarv7397/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aarv7397/profile" height="20" width="20" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aarav%20Kumar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Dev%20%E2%80%A2%20Edge%20AI%20%E2%80%A2%20Linux%20Tinkerer&descAlignY=58&descSize=20" width="100%"/>
 
-<h5 align="left">Languages and Tools:</h5>
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M535.8 264.5C528.1 233.6 513.5 210.3 482.4 210.3L442.3 210.3L442.3 257.7C442.3 294.5 411.1 325.5 375.5 325.5L268.7 325.5C239.5 325.5 215.3 350.5 215.3 379.8L215.3 481.6C215.3 510.6 240.5 527.6 268.7 535.9C302.5 545.8 335 547.6 375.5 535.9C402.4 528.1 428.9 512.4 428.9 481.6L428.9 440.9L322.2 440.9L322.2 427.3L482.4 427.3C513.5 427.3 525 405.6 535.8 373.1C547 339.6 546.5 307.4 535.8 264.5zM382.2 508.7C374.6 509.2 367.3 505.5 363.3 499C359.4 492.4 359.4 484.3 363.3 477.7C367.3 471.2 374.6 467.5 382.2 468C389.8 467.5 397.1 471.2 401.1 477.7C405 484.3 405 492.4 401.1 499C397.1 505.5 389.8 509.2 382.2 508.7zM263.8 312.1L370.6 312.1C400.3 312.1 424 287.6 424 257.8L424 155.9C424 126.9 399.6 105.2 370.6 100.3C334.8 94.4 295.9 94.7 263.8 100.4C218.6 108.4 210.4 125.1 210.4 156L210.4 196.7L317.3 196.7L317.3 210.3L170.3 210.3C139.2 210.3 112 229 103.5 264.5C93.7 305.2 93.3 330.6 103.5 373.1C111.1 404.7 129.2 427.3 160.3 427.3L197 427.3L197 378.5C197 343.2 227.5 312.1 263.8 312.1zM257.2 128.7C268.5 128.7 277.6 137.8 277.6 149.1C277.6 160.4 268.5 169.5 257.2 169.5C245.9 169.5 236.8 160.4 236.8 149.1C236.8 137.8 245.9 128.7 257.2 128.7z"/></svg></a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="20" height="20"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="20" height="20"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="20" height="20"/> </a> </p>
-<br>
-<br>
-<div align="center"> Copied With ❤️‍🔥 By Aarav </div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Backend+Developer+%F0%9F%9A%80;Edge+AI+%26+Federated+Learning+Engineer+%F0%9F%A7%A0;Linux+%26+Open+Source+Enthusiast+%F0%9F%90%A7;CS50x+%7C+CS50w+Graduate;Final+Year+B.Sc.+IT+%40+GGV+Bilaspur)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kumaraarav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kumaraarav)
+[![LeetCode](https://img.shields.io/badge/LeetCode-aarav7397-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aarav7397/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-aarv7397-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/aarv7397)
+[![Twitter](https://img.shields.io/badge/Twitter-aarav7397-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aarav7397)
+[![TakeUForward](https://img.shields.io/badge/TakeUForward-darkice-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsOCA0IDgtNE0yIDEybDggNCA4LTQiLz48L3N2Zz4=)](https://takeuforward.org/profile/darkice)
+[![Profile Views](https://komarev.com/ghpvc/?username=DarkIce000&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/DarkIce000)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```python
+class Aarav:
+    def __init__(self):
+        self.name        = "Aarav Kumar"
+        self.alias       = "DarkIce"
+        self.university  = "Guru Ghasidas Vishwavidyalaya, Bilaspur"
+        self.degree      = "B.Sc. IT — Final Year (2026)"
+        self.os          = "CachyOS + KDE Plasma on Wayland 🐧"
+        self.focus       = ["Backend Development", "Edge AI", "Federated Learning"]
+        self.internships = ["Whatsbytes → Backend Dev", "ExpertMinds Technologies → Edge AI"]
+        self.certs       = ["CS50x", "CS50w"]
+        self.interests   = ["Linux", "Open Source", "Tinkering with hardware & software"]
+        self.currently   = "Hunting for backend / AI engineering roles 🎯"
+
+    def say_hi(self):
+        print("Playing with tech until the curious kid inside is satisfied 😺")
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,bash&perline=8)](https://skillicons.dev)
+
+**Frameworks & Backend**
+
+[![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,react&perline=8)](https://skillicons.dev)
+
+**Databases & Infra**
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,nginx&perline=8)](https://skillicons.dev)
+
+**AI / ML**
+
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&perline=8)](https://skillicons.dev)
+
+**Tools & OS**
+
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,postman,vscode,vim&perline=8)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 ExpertMinds Technologies
+**Edge AI & Federated Learning Intern**
+
+- Worked on deploying ML models at the edge
+- Explored federated learning architectures for privacy-preserving AI
+- Stack: TensorFlow Lite, Python, edge device deployment
+
+</td>
+<td width="50%">
+
+### 🏢 Whatsbytes
+**Backend Development Intern**
+
+- Built and maintained REST APIs
+- Worked with Django, PostgreSQL, Redis
+- Focused on performance, scalability and clean architecture
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🕵️ [FightFake](https://github.com/DarkIce000/Project_FightFake)
+> Chrome Extension that makes fake news obvious at plain sight
+
+**Stack:** `Flask` · `Gemini API` · `JavaScript` · `NLP`
+
+- Backend-powered Chrome Extension
+- Uses Gemini API for real-time news credibility analysis
+- NLP pipeline to detect manipulative language patterns
+
+⭐ 1 star
+
+</td>
+<td width="50%">
+
+### 🛒 [BachelorsStore](https://github.com/DarkIce000/BachelorsStore)
+> eBay-like bidding ecommerce platform — CS50W Project
+
+**Stack:** `Django` · `PostgreSQL` · `Bootstrap` · `JavaScript`
+
+- Full-featured auction bidding system
+- Fully responsive & mobile-friendly
+- Personal styling touch beyond the CS50 spec
+
+⭐ 2 stars
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ [Glance](https://github.com/DarkIce000/Glance-chrome-extension)
+> Chrome Extension — tasks + weather + motivational quotes
+
+**Stack:** `JavaScript` · `Chrome Extension APIs`
+
+- Task management right in the new tab
+- Live weather widget
+- Motivational quote greeting on every open
+
+⭐ 3 stars
+
+</td>
+<td width="50%">
+
+### 📬 [Gmail Replica](https://github.com/DarkIce000/gmail-replica)
+> Client-server email web application
+
+**Stack:** `Django` · `JavaScript` · `REST API`
+
+- Full client-server email model
+- Send, receive, reply, archive mails
+- Single-page app feel with JavaScript fetch API
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🩸 [Blood-Network](https://github.com/DarkIce000/Blood-Network)
+> Centralized blood donor network platform
+
+**Stack:** `Django` · `Bootstrap` · `JavaScript`
+
+- Connects blood donors and recipients
+- Location-based search for donors
+- Simplified, accessible UI for quick emergency use
+
+⭐ 3 stars
+
+</td>
+<td width="50%">
+
+### 📱 [Automate Flow](https://github.com/DarkIce000/automate_flow)
+> Android automation scripts using Automate – LlamaLab
+
+**Stack:** `Automate (LlamaLab)` · `Android`
+
+- Hobby project for personal Android workflow automation
+- Used as a backup for my automation flows
+- Tinkerer energy, maximum
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DarkIce000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkIce000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DarkIce000&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=DarkIce000&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%" alt="Trophies"/>
+
+</div>
+
+---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/aarav7397?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/aarav7397/)
+
+</div>
+
+---
+
+## 🌐 GeeksForGeeks Stats
+
+<div align="center">
+
+[![GeeksForGeeks Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=aarv7397)](https://www.geeksforgeeks.org/profile/aarv7397)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Aarav's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DarkIce000&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/DarkIce000)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarkIce000/DarkIce000/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarkIce000/DarkIce000/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DarkIce000/DarkIce000/output/github-snake.svg"/>
+</picture>
+
+> ⚠️ **Note:** The snake animation requires a GitHub Action to generate. See setup below.
+
+</div>
+
+---
+
+## 🐧 Current Setup
+
+```yaml
+OS:        CachyOS (Arch-based)
+DE:        KDE Plasma on Wayland
+Shell:     zsh
+Editor:    VS Code / Vim
+Keyboard:  keyd v2.6.0 (custom remaps)
+Snippets:  Espanso (resume & job app templates)
+Status:    Always tinkering ⚙️
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+**Made with 🧠 and way too many terminal tabs — Aarav Kumar**
+
+</div>
