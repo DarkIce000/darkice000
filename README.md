@@ -116,7 +116,7 @@ class Aarav:
 </td>
 <td width="50%">
 
-### 🛒 [BachelorsStore](https://github.com/DarkIce000/BachelorsStore)
+### [BachelorsStore](https://github.com/DarkIce000/BachelorsStore)
 > eBay-like bidding ecommerce platform — CS50W Project
 
 **Stack:** `Django` · `PostgreSQL` · `Bootstrap` · `JavaScript`
@@ -132,7 +132,7 @@ class Aarav:
 <tr>
 <td width="50%">
 
-### ⚡ [Glance](https://github.com/DarkIce000/Glance-chrome-extension)
+### [Glance](https://github.com/DarkIce000/Glance-chrome-extension)
 > Chrome Extension — tasks + weather + motivational quotes
 
 **Stack:** `JavaScript` · `Chrome Extension APIs`
@@ -146,7 +146,7 @@ class Aarav:
 </td>
 <td width="50%">
 
-### 📬 [Gmail Replica](https://github.com/DarkIce000/gmail-replica)
+### [Gmail Replica](https://github.com/DarkIce000/gmail-replica)
 > Client-server email web application
 
 **Stack:** `Django` · `JavaScript` · `REST API`
@@ -160,7 +160,7 @@ class Aarav:
 <tr>
 <td width="50%">
 
-### 🩸 [Blood-Network](https://github.com/DarkIce000/Blood-Network)
+### [Blood-Network](https://github.com/DarkIce000/Blood-Network)
 > Centralized blood donor network platform
 
 **Stack:** `Django` · `Bootstrap` · `JavaScript`
@@ -174,7 +174,7 @@ class Aarav:
 </td>
 <td width="50%">
 
-### 📱 [Automate Flow](https://github.com/DarkIce000/automate_flow)
+###  [Automate Flow](https://github.com/DarkIce000/automate_flow)
 > Android automation scripts using Automate – LlamaLab
 
 **Stack:** `Automate (LlamaLab)` · `Android`
@@ -189,7 +189,7 @@ class Aarav:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -208,7 +208,7 @@ class Aarav:
 
 ---
 
-## 🧩 LeetCode Stats
+## LeetCode Stats
 
 <div align="center">
 
@@ -218,17 +218,17 @@ class Aarav:
 
 ---
 
-## 🌐 GeeksForGeeks Stats
+## GeeksForGeeks Stats
 
 <div align="center">
 
-[![GeeksForGeeks Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=aarv7397)](https://www.geeksforgeeks.org/profile/aarv7397)
+[![GeeksForGeeks Stats](https://gfgstatscard.vercel.app/api?username=aarv7397)](https://www.geeksforgeeks.org/profile/aarv7397)
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
 
@@ -238,7 +238,7 @@ class Aarav:
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -252,7 +252,7 @@ class Aarav:
 
 ---
 
-## 🐧 Current Setup
+## Current Setup
 
 ```yaml
 OS:        CachyOS (Arch-based)
@@ -261,7 +261,7 @@ Shell:     zsh
 Editor:    VS Code / Vim
 Keyboard:  keyd v2.6.0 (custom remaps)
 Snippets:  Espanso (resume & job app templates)
-Status:    Always tinkering ⚙️
+Status:    Always tinkering
 ```
 
 ---
