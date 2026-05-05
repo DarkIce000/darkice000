@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aarav%20Kumar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Dev%20%E2%80%A2%20Edge%20AI%20%E2%80%A2%20Linux%20Tinkerer&descAlignY=58&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Backend+Developer+%F0%9F%9A%80;Edge+AI+%26+Federated+Learning+Engineer+%F0%9F%A7%A0;Linux+%26+Open+Source+Enthusiast+%F0%9F%90%A7;CS50x+%7C+CS50w+Graduate;Final+Year+B.Sc.+IT+%40+GGV+Bilaspur)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Backend+Developer+%F0%9F%9A%80;Edge+AI+%26+Federated+Learning+Engineer+%F0%9F%A7%A0;Linux+%26+Open+Source+Enthusiast+%F0%9F%90%A7;CS50x+%7C+CS50w+Graduate;Final+Year+B.Tech+IT+%40+GGV+Bilaspur)](https://git.io/typing-svg)
 
 <br/>
 
@@ -25,7 +25,7 @@ class Aarav:
         self.name        = "Aarav Kumar"
         self.alias       = "DarkIce"
         self.university  = "Guru Ghasidas Vishwavidyalaya, Bilaspur"
-        self.degree      = "B.Sc. IT — Final Year (2026)"
+        self.degree      = "B.Tech IT — Final Year (2026)"
         self.os          = "CachyOS + KDE Plasma on Wayland 🐧"
         self.focus       = ["Backend Development", "Edge AI", "Federated Learning"]
         self.internships = ["Whatsbytes → Backend Dev", "ExpertMinds Technologies → Edge AI"]
@@ -272,6 +272,6 @@ Status:    Always tinkering ⚙️
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-**Made with 🧠 and way too many terminal tabs — Aarav Kumar**
+**--Aarav Kumar**
 
 </div>
