@@ -192,11 +192,7 @@ class Aarav:
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DarkIce000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkIce000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-
-<br/>
+<br/> <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=DarkIce000&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%" alt="GitHub Streak"/>
 
@@ -213,16 +209,6 @@ class Aarav:
 <div align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/aarav7397?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/aarav7397/)
-
-</div>
-
----
-
-## GeeksForGeeks Stats
-
-<div align="center">
-
-[![GeeksForGeeks Stats](https://gfgstatscard.vercel.app/api?username=aarv7397)](https://www.geeksforgeeks.org/profile/aarv7397)
 
 </div>
 
