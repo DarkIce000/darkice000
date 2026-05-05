@@ -248,8 +248,6 @@ class Aarav:
   <img alt="github-snake" src="https://raw.githubusercontent.com/DarkIce000/DarkIce000/output/github-snake.svg"/>
 </picture>
 
-> ⚠️ **Note:** The snake animation requires a GitHub Action to generate. See setup below.
-
 </div>
 
 ---
